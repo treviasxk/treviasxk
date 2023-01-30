@@ -1,10 +1,9 @@
 <h1 align="center">Marco Antônio Diniz (Trevias Xk)</h1>
 
 <div align="center">
-   <img src="https://avatars.githubusercontent.com/u/24716901?s=380" align="left"/>
+   <img src="https://avatars.githubusercontent.com/u/24716901?s=358" align="left"/>
 
    ![Trevias Xk's GitHub stats](https://github-readme-stats.vercel.app/api?username=treviasxk&theme=transparent&show_icons=true&bg_color=00000000&card_width=450)
-
    ![Trevias Xk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treviasxk&theme=transparent&layout=compact&card_width=400)
 </div>
    
@@ -26,7 +25,7 @@
    <a href="https://github.com/treviasxk/Nethostfire">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treviasxk&repo=Nethostfire&theme=transparent"/>
    </a>
-   <a href="[https://github.com/anuraghazra/convoychat](https://github.com/treviasxk/WebAppMobile)">
+   <a href="https://github.com/treviasxk/WebAppMobile">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treviasxk&repo=WebAppMobile&theme=transparent"/>
    </a>
 </div>
