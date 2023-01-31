@@ -22,11 +22,11 @@
 
 <h2>Main projects</h2>
 <div align="center">
-   <a href="https://github.com/treviasxk/Nethostfire">
+    &nbsp;<a href="https://github.com/treviasxk/Nethostfire">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treviasxk&repo=Nethostfire&theme=transparent"/>
-   </a>
-   <a href="https://github.com/treviasxk/WebAppMobile">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treviasxk&repo=WebAppMobile&theme=transparent"/>
+   </a>&nbsp;
+    &nbsp;<a href="https://github.com/treviasxk/WebAppMobile">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treviasxk&repo=WebAppMobile&theme=transparent"/>&nbsp;
    </a>
 </div>
 
