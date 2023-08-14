@@ -1,7 +1,7 @@
 <h1 align="center">Marco Antônio Diniz (Trevias Xk)</h1>
 
 <div align="center">
-   <img src="https://avatars.githubusercontent.com/u/24716901?s=358" align="left"/>
+   <img src="https://avatars.githubusercontent.com/u/24716901?s=340" align="left"/>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=treviasxk&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
