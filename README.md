@@ -3,8 +3,9 @@
 <div align="center">
    <img src="https://avatars.githubusercontent.com/u/24716901?s=358" align="left"/>
 
-   ![Trevias Xk's GitHub stats](https://github-readme-stats.vercel.app/api?username=treviasxk&theme=transparent&show_icons=true&bg_color=00000000&card_width=450&hide_border=true)
-   ![Trevias Xk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treviasxk&theme=transparent&layout=compact&card_width=400&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=treviasxk&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+![Trevias Xk's GitHub stats](https://github-readme-stats.vercel.app/api?username=treviasxk&theme=transparent&show_icons=true&bg_color=00000000&card_width=450&hide_border=true&rank_icon=percentile&hide_title=true)
 </div>
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,6 +18,9 @@
 - 🌱 I’m currently learning C++, Shell and Python.
 - 💞️ I’m looking to collaborate on areas similar to mine.
 - 📫 How to reach me: trevias@live.com
+
+![Trevias Xk's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treviasxk&theme=transparent&layout=compact&card_width=400&hide_border=true)
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
