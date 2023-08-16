@@ -31,8 +31,8 @@
    </a>&nbsp;
     &nbsp;<a href="https://github.com/treviasxk/WebAppMobile">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treviasxk&repo=WebAppMobile&theme=transparent&hide_border=true"/>&nbsp;
-   </a>&nbsp;
-    &nbsp;
+   </a>
+        
    <a href="https://github.com/treviasxk/UnityNanite">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=treviasxk&repo=UnityNanite&theme=transparent&hide_border=true"/>&nbsp;
       </a>
