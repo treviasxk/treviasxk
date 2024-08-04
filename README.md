@@ -1,7 +1,6 @@
-<h1 align="center">Treviasxk (treviasxk)</h1>
+<h1 align="center">Trevias Xk (treviasxk)</h1>
 
 <div align="center">
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=treviasxk&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
