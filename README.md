@@ -1,9 +1,10 @@
-<h1 align="center">Marco Antônio Diniz (Trevias Xk)</h1>
+<h1 align="center">Treviasxk (treviasxk)</h1>
 
 <div align="center">
-   <img src="https://avatars.githubusercontent.com/u/24716901?s=310" align="left"/>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=treviasxk&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
 ![Trevias Xk's GitHub stats](https://github-readme-stats.vercel.app/api?username=treviasxk&theme=transparent&show_icons=true&bg_color=00000000&card_width=450&hide_border=true&rank_icon=percentile&hide_title=true)
 </div>
    
