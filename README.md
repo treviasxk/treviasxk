@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=treviasxk&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+![Trevias Xk's GitHub Streak](https://streak-stats.demolab.com/?user=treviasxk&theme=transparent&hide_border=true&border_radius=0)
 
 ![Trevias Xk's GitHub stats](https://github-readme-stats.vercel.app/api?username=treviasxk&theme=transparent&show_icons=true&bg_color=00000000&card_width=450&hide_border=true&rank_icon=percentile&hide_title=true)
 </div>
