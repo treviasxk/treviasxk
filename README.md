@@ -1,15 +1,15 @@
 <h1 align="center">Trevias Xk (treviasxk)</h1>
 
 <div align="center">
-
+   
 ![Trevias Xk's GitHub Streak](https://streak-stats.demolab.com/?user=treviasxk&theme=transparent&hide_border=true&border_radius=0)
 
-![Trevias Xk's GitHub stats](https://github-readme-stats.vercel.app/api?username=treviasxk&theme=transparent&show_icons=true&bg_color=00000000&card_width=450&hide_border=true&rank_icon=percentile&hide_title=true)
+![Trevias Xk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=treviasxk&theme=transparent&show_icons=true&bg_color=00000000&card_width=450&hide_border=true&rank_icon=percentile&hide_title=true)
 </div>
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Trevias Xk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=treviasxk&theme=react-dark)](https://git.io/streak-stats)
+![Trevias Xk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=treviasxk&theme=react-dark)
 
 </div>
 
